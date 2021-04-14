@@ -1,2 +1,10 @@
 # Secure-File-Transfer-and-Storage-over-Cloud-Platform
-Tasks  1. Frontend Development @Alpesh 2. File Transfer @ Yogesh  3. Backend Listener &amp; File storage @kv @harshit
+
+It is a command line solution to share file between cloud and local machine 
+
+Ways to operate:
+-Pass in the file name you want to share inside the client.py
+-Update the storage node ip(your cloud ip address where you want to send the files)
+-Run client.py inside your local machine as python3 client.py
+-Run the stroage node at the cloud as python3 storage.py
+
