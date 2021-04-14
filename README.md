@@ -12,3 +12,5 @@ Ways to operate:
 
 -Run the stroage node at the cloud as python3 storage.py
 
+
+This is a socket programming solution to share files using python
